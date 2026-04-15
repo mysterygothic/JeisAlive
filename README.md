@@ -4,7 +4,7 @@
 
 # JeisAlive
 
-.NET crypter and multi-file binder. Forked from [Jlaive](https://github.com/ch2sh/Jlaive) by ch2sh, rewritten from scratch.
+.NET crypter and multi-file binder. Inspired by the original Jlaive project, rewritten from scratch.
 
 
 ---
@@ -61,7 +61,7 @@ Needs .NET 8 SDK + Windows. GCC is bundled, no extra installs.
 
 ## Credits
 
-Forked from [Jlaive](https://github.com/ch2sh/Jlaive) by ch2sh. Rewritten by **gothyo**.
+Inspired by the original Jlaive project. Rewritten by **gothyo**.
 
 ---
 
