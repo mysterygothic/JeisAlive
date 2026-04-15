@@ -19,15 +19,9 @@
 - [x] Output as native EXE or obfuscated batch file
 
 ### Future Features
-
-- [ ] Polymorphic source transforms (identifier randomization, function shuffling, junk code, string XOR)
-- [ ] Process injection (RunPE / process hollowing)
 - [ ] Startup persistence options (registry, scheduled task, startup folder)
-- [ ] Icon cloning from legitimate executables
-- [ ] Assembly metadata spoofing (version info, digital signature mimic)
 - [ ] Delay execution (sleep before payload launch)
-- [ ] Environment-bound encryption (lock payload to specific machine)
-- [ ] Shellcode output mode
+- [ ] Shellcode output mode maybe..
 
 ---
 
