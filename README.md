@@ -11,12 +11,23 @@
 
 ## Features
 
-- 3-layer AES-256-CBC encryption with HMAC-SHA256 per layer
-- Native C loader compiled fresh each build via bundled GCC
-- Multi-file binder (bind decoys, documents, other executables)
-- Anti-debug, anti-VM, sandbox timing checks
-- Self-delete (melt) after execution
-- Output as native EXE or obfuscated batch file
+- [x] 3-layer AES-256-CBC encryption with HMAC-SHA256 per layer
+- [x] Native C loader compiled fresh each build via bundled GCC
+- [x] Multi-file binder (bind decoys, documents, other executables)
+- [x] Anti-debug, anti-VM, sandbox timing checks
+- [x] Self-delete (melt) after execution
+- [x] Output as native EXE or obfuscated batch file
+
+### Future Features
+
+- [ ] Polymorphic source transforms (identifier randomization, function shuffling, junk code, string XOR)
+- [ ] Process injection (RunPE / process hollowing)
+- [ ] Startup persistence options (registry, scheduled task, startup folder)
+- [ ] Icon cloning from legitimate executables
+- [ ] Assembly metadata spoofing (version info, digital signature mimic)
+- [ ] Delay execution (sleep before payload launch)
+- [ ] Environment-bound encryption (lock payload to specific machine)
+- [ ] Shellcode output mode
 
 ---
 
