@@ -2,9 +2,10 @@
   <img src="logo.ico" width="80" alt="JeisAlive">
 </p>
 
-# JeisAlive
+# JE IS ALIVE
 
-.NET crypter and multi-file binder. Inspired by the original Jlaive project, rewritten from scratch.
+.NET crypter obfuscator and file binder
+Inspired by the original Jlaive project
 
 
 ---
