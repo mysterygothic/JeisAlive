@@ -6,9 +6,6 @@
 
 .NET crypter and multi-file binder. Forked from [Jlaive](https://github.com/ch2sh/Jlaive) by ch2sh, rewritten from scratch.
 
-> **LEGAL DISCLAIMER — PLEASE READ!**
->
-> I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
 
 ---
 
@@ -72,6 +69,9 @@ Forked from [Jlaive](https://github.com/ch2sh/Jlaive) by ch2sh. Rewritten by **g
 **XMR:** `49WKmHs8r6vL3Wd1HD1FGfHWP9gGJobKmZWQ2U91upwTBj1AMo8SZrUWt8bTwCYzUzhhSo5zPYut2AdrRLbCofHX6ZEcP4z`
 
 ---
+> **LEGAL DISCLAIMER — PLEASE READ!**
+>
+> I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
 
 ## License
 
