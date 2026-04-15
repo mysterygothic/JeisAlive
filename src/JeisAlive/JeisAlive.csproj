@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>..\..\logo.ico</ApplicationIcon>
+    <AssemblyName>JeisAlive</AssemblyName>
+    <RootNamespace>JeisAlive</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\Tools\w64devkit\**\*" CopyToOutputDirectory="PreserveNewest" LinkBase="Tools\w64devkit" />
+    <Content Include="..\..\logo.ico" CopyToOutputDirectory="PreserveNewest" Link="logo.ico" />
+  </ItemGroup>
+
+</Project>
