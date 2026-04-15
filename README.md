@@ -29,7 +29,7 @@ Your payload gets encrypted through 3 nested AES layers. A native C stub is gene
 ---
 
 ## Scan Results
-
+tested on AsyncRat payload
 ![VirusTotal Scan — April 15, 2026](VirusTotal-15-April-2026.png)
 
 ---
