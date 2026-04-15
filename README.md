@@ -4,7 +4,7 @@
 
 # JeisALIVE
 
-.NET crypter obfuscator and file binder
+.NET crypter & obfuscator and file binder
 Inspired by the original Jlaive project
 
 
