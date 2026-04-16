@@ -8,21 +8,6 @@
 Inspired by the original Jlaive project
 
 
----
-
-## Features
-
-- [x] 3-layer AES-256-CBC encryption with HMAC-SHA256 per layer
-- [x] Native C loader compiled fresh each build via bundled GCC
-- [x] Multi-file binder (bind decoys, documents, other executables)
-- [x] Anti-debug, anti-VM, sandbox timing checks
-- [x] Self-delete (melt) after execution
-- [x] Output as native EXE or obfuscated batch file
-
-### Future Features
-- [ ] Startup persistence options (registry, scheduled task, startup folder)
-- [ ] Delay execution (sleep before payload launch)
-- [ ] Shellcode output mode maybe..
 
 ---
 
@@ -40,23 +25,20 @@ tested on AsyncRat payload
 
 ---
 
-## Build
+## Features
 
-```
-dotnet build JeisAlive.sln
-```
+- [x] 3-layer AES-256-CBC encryption with HMAC-SHA256 per layer
+- [x] Native C loader compiled fresh each build via bundled GCC
+- [x] Multi-file binder (bind decoys, documents, other executables)
+- [x] Anti-debug, anti-VM, sandbox timing checks
+- [x] Self-delete (melt) after execution
+- [x] Output as native EXE or obfuscated batch file
 
-Needs .NET 8 SDK + Windows. GCC is bundled, no extra installs.
-
+### to do list
+- [ ] Startup persistence options (registry, scheduled task, startup folder)
+- [ ] Delay execution (sleep before payload launch)
+- [ ] Shellcode output mode maybe..
 ---
-
-## Usage
-
-1. Select your payload (.exe)
-2. Pick output format (EXE or BAT)
-3. Toggle protection (Anti-Debug, Anti-VM, Melt)
-4. Add files to binder if you want
-5. Hit Build
 
 ---
 
