@@ -10,7 +10,7 @@ Inspired by the original Jlaive project
 
 ---
 
-## How It Works
+How It Works
 
 ![How It Works](howitworks.png)
 
