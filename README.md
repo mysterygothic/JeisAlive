@@ -2,7 +2,6 @@
   <img src="logo.ico" width="80" alt="JeisAlive">
 </p>
 
-# JeisALIVE
 
 .NET crypter & obfuscator and file binder
 Inspired by the original Jlaive project
